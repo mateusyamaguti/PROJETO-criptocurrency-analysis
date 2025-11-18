@@ -35,3 +35,12 @@ Painel de análise de criptomoedas
  -- Permitir que o grafico se ajuste a dia, semana, mês, ano e desde o início
  -- Escolher a criptomoeda que será analisada
  
+### Vídeo sobre API Coingeck
+
+https://www.youtube.com/watch?v=4-CC3u4i73k
+
+
+### Rodar Ananconda
+conda activate criptocurrency-analysis
+
+jupyter notebook
