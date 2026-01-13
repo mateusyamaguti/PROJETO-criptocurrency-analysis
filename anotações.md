@@ -40,7 +40,20 @@ Painel de análise de criptomoedas
 https://www.youtube.com/watch?v=4-CC3u4i73k
 
 
+
+All the code from the video can be found below.
+https://github.com/AdamGetbags/coinGe...
+
+Coin Gecko API Docs
+https://www.coingecko.com/en/api/docu...
+
+PyCoinGecko Docs
+https://github.com/man-c/pycoingecko
+
+
 ### Rodar Ananconda
 conda activate criptocurrency-analysis
 
 jupyter notebook
+
+
